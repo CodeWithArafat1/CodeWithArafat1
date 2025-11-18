@@ -7,6 +7,10 @@ on:
   # ম্যানুয়ালি রান করার জন্য
   workflow_dispatch:
 
+# এই অংশটি ফাইল রিপোজিটরিতে Push করার অনুমতি দিচ্ছে
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
