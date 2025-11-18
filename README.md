@@ -48,6 +48,15 @@
   <img src="https://streak-stats.demolab.com?user=CodeWithArafat1&theme=react&hide_border=true&background=0D1117" alt="Streak" />
 </div>
 
+
+---
+
+### 📈 Daily Development Flow
+
+<p align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=CodeWithArafat1&theme=react-dark&hide_border=true&area=true" alt="Arafat's GitHub Activity Graph" />
+</p>
+
 ---
 
 
