@@ -29,6 +29,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithArafat1&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
+
+### GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=CodeWithArafat1&theme=dark&limit=5&combine_all_yearly_contributions=true&hide_border=true" alt="Arafat's Contribution Graph" />
+</p>
+
+
 ### Repository Streak:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CodeWithArafat1&theme=react&hide_border=true&background=0D1117" alt="Streak" />
