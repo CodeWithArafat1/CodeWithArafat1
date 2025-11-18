@@ -6,9 +6,14 @@
 </p>
 
 <p align="center">
-  I am a dedicated web developer focused on building clean, user-friendly, and efficient web applications. I love working with the **MERN Stack** and modern frontend technologies like **React, Tailwind CSS, and DaisyUI**.
+  A dedicated coder living at the intersection of MERN, performance, and modern design. I translate business logic into seamless, efficient digital solutions powered by React and Tailwind's utility architecture.
 </p>
 
+### GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodeWithArafat1/CodeWithArafat1/main/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
 ---
 
 ### 🛠️ Languages and Tools
