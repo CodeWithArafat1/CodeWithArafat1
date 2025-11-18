@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Arafat 👋</h1>
+<h3 align="center">A Passionate MERN Stack Developer from Bangladesh 🇧🇩</h3>
 
-<!--
-**CodeWithArafat1/CodeWithArafat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=1000&color=33E69C&center=true&vCenter=true&width=550&lines=Mastering+the+MERN+Ecosystem;Building+scalable+APIs+with+Node+&amp;+Express;Designing+UIs+with+Tailwind+CSS+&amp;+DaisyUI;Solving+real-world+problems+with+code+%F0%9F%92%A1;Currently+working+on+portfolio+projects+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I am a dedicated web developer focused on building clean, user-friendly, and efficient web applications. I love working with the **MERN Stack** and modern frontend technologies like **React, Tailwind CSS, and DaisyUI**.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/daisyui-151A31?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI">
+  <br/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithArafat1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Arafat's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithArafat1&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+### Repository Streak:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeWithArafat1&theme=react&hide_border=true&background=0D1117" alt="Streak" />
+</div>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:arafatnill69@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arafat-nill-251452334">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/ArafatNill69">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
