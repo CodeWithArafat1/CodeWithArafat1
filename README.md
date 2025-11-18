@@ -82,3 +82,11 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
+
+---
+
+### 📈 Profile Popularity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeWithArafat1&label=Profile%20Views&color=blue&style=flat" alt="Arafat's Profile Views" />
+</p>
