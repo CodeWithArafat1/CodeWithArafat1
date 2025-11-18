@@ -21,6 +21,19 @@
 | **Database & Auth** | <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"> |
 | **Tools & Hosting** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"> <img src="https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"> |
 
+- 🔭 I'm currently expanding my skills in **Next.js** and **TypeScript**.
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithArafat1&theme=dracula&no-frame=true&no-bg=true" alt="Arafat's GitHub Trophies" />
+</p>
+
+---
+
+
 
 ### 📊 GitHub Stats
 
@@ -37,7 +50,7 @@
 
 ---
 
----
+
 
 ### 💡 Random Development Quote
 
