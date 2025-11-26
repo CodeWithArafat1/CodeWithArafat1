@@ -38,13 +38,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithArafat1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Arafat's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithArafat1&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithArafat1&show_icons=true&theme=radical&hide_border=true&t=1" alt="Arafat's Stats" />
 </p>
 
-### Repository Streak:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithArafat1&layout=compact&theme=radical&hide_border=true&t=1" alt="Top Languages" />
+</p>
+
+### 🔥 Repository Streak
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeWithArafat1&theme=react&hide_border=true&background=0D1117" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=CodeWithArafat1&theme=radical&hide_border=true&t=1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -71,7 +75,7 @@
   <a href="mailto:arafatnill2.0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/arafat-nill-251452334/">
+  <a href="https://www.linkedin.com/in/arafatnill">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/ArafatNill69">
